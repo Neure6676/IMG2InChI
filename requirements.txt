@@ -1,0 +1,12 @@
+numpy==1.23.1
+fastapi==0.104.1
+mangum==0.17.0
+scikit-learn
+uvicorn==0.24.0.post1
+fairseq==0.10.0
+pandas==1.4.3
+timm==0.9.11
+torch==1.12.1
+torchvision==0.13.1
+tqdm==4.66.1
+opencv-contrib-python==4.8.1.78
